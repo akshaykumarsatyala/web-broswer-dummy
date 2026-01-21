@@ -1,0 +1,139 @@
+🗺️ KESAVA’S DETAILED ROADMAP (STEP-BY-STEP)
+🟢 PHASE 1: BACKEND BASICS (Days 1–3)
+🎓 Learn
+
+Node.js basics
+
+REST APIs
+
+Async / Await
+
+📚 Resources
+
+YouTube: “Node.js crash course Traversy Media”
+
+Docs: Express.js official docs
+
+🛠 Task
+
+Create a simple Express server
+
+Test API with Postman
+
+🟡 PHASE 2: BROWSER AUTOMATION (Days 4–7)
+🎓 Learn
+
+Playwright basics
+
+Browser context
+
+Page actions
+
+📚 Resources
+
+Playwright official docs
+
+YouTube: “Playwright tutorial for beginners”
+
+🛠 Task
+
+Open a page
+
+Click a button
+
+Type text
+
+Take screenshot
+
+🔵 PHASE 3: ACTION EXECUTION ENGINE (Days 8–11)
+🎓 Learn
+
+JSON parsing
+
+Action routing
+
+Error handling
+
+🛠 Task
+
+Create a function like:
+
+executeAction(step) {
+  switch(step.type) {
+    case "click": ...
+    case "type": ...
+  }
+}
+
+🟣 PHASE 4: CONNECT AI TO AUTOMATION (Days 12–15)
+🎓 Learn
+
+Gemini API integration
+
+Request/response handling
+
+🛠 Task
+
+Receive JSON from AI
+
+Execute steps using Playwright
+
+Return status to frontend
+
+🔐 PHASE 5: SECURITY & STABILITY (Days 16–18)
+🎓 Learn
+
+Environment variables
+
+Timeouts
+
+Try/catch
+
+Safe selectors
+
+🛠 Task
+
+Prevent infinite loops
+
+Add logs
+
+Handle failures gracefully
+
+🧩 PHASE 6: ADVANCED (OPTIONAL)
+
+File downloads
+
+Multi-tab handling
+
+Session persistence
+
+Headless vs non-headless
+
+📂 FILE STRUCTURE KESAVA SHOULD USE
+/backend
+ ├─ server.js
+ ├─ routes/
+ ├─ automation/
+ │   ├─ browser.js
+ │   ├─ executor.js
+ │   └─ actions.js
+ ├─ utils/
+ └─ logs/
+
+📌 DAILY WORK RULE FOR KESAVA
+
+Every day, Kesava must answer:
+
+What automation did I build?
+
+What failed?
+
+What can be improved?
+
+🧨 MENTOR MODE (IMPORTANT)
+
+Tell Kesava this 👇
+
+“You are building the engine of the product.
+If automation is stable, the product lives.
+If automation fails, nothing matters.”

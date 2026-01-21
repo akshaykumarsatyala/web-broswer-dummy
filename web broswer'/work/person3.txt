@@ -1,0 +1,102 @@
+🗺️ YASHWANT’S DETAILED TESTING ROADMAP
+🟢 PHASE 1: UNDERSTAND THE PRODUCT (Days 1–2)
+Learn:
+
+What the AI browser does
+
+User flow (command → result)
+
+Team roles
+
+Task:
+
+Read project overview
+
+Try demo manually
+
+Write basic understanding notes
+
+🟡 PHASE 2: MANUAL TESTING (Days 3–6)
+Test Areas:
+
+Browser UI (buttons, inputs)
+
+Chat panel
+
+Error messages
+
+Page loading
+
+Sample Test Cases:
+
+Invalid URL
+
+Empty command
+
+Long command
+
+Network failure
+
+Output:
+
+Test case document (Excel / Google Sheet)
+
+🔵 PHASE 3: AI COMMAND TESTING (Days 7–10)
+Test:
+
+Single-intent commands
+
+“summarize this page”
+
+Multi-intent commands
+
+“summarize and download invoice”
+
+Wrong commands
+
+“hack this website”
+
+Goal:
+
+Check if AI responds safely
+
+Check error handling
+
+Check clarity of messages
+
+🟣 PHASE 4: AUTOMATION RESULT TESTING (Days 11–14)
+Test:
+
+Click actions
+
+Form filling
+
+File download success/failure
+
+Timeouts
+
+Report:
+
+What failed
+
+How often
+
+Reproducible steps
+
+🔐 PHASE 5: EDGE CASE & SECURITY TESTING (Days 15–17)
+Test:
+
+Repeated commands
+
+Cancel actions midway
+
+Unauthorized actions
+
+Unexpected page layouts
+
+📂 TEST ARTIFACTS YASHWANT SHOULD MAINTAIN
+/testing
+ ├─ test-cases.xlsx
+ ├─ bug-reports.md
+ ├─ screenshots/
+ └─ test-summary.md

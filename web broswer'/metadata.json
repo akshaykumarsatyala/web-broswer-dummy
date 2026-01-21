@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Browser Agent",
+  "description": "An intelligent AI-powered web browser assistant that analyzes pages, plans multi-step automation workflows, and executes browser actions based on natural language commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,160 @@
+✅ EXACT TASKS FOR PRAVEEN (STEP-BY-STEP)
+🟢 STEP 1: Learn the Required Basics (Day 1–2)
+
+Praveen must know:
+
+HTML (structure)
+
+CSS (layout & styling)
+
+JavaScript (basic events)
+
+React (components & state)
+
+🟢 STEP 2: Build Browser UI (Day 3–5)
+
+He must build:
+
+Address bar (URL input)
+
+Back / Forward / Reload buttons
+
+Tab bar (static tabs first)
+
+Main browser view area
+
+Right-side AI chat panel (UI only)
+
+Output:
+A window that looks like a browser + AI sidebar.
+
+🟢 STEP 3: Build AI Chat UI (Day 6–7)
+
+He must build:
+
+Chat input box
+
+Send button
+
+Message list (user & AI messages)
+
+Loading indicator
+
+Important:
+Responses can be dummy text at first.
+
+🟢 STEP 4: Connect UI to Backend API (Day 8–10)
+
+He must:
+
+Send user prompt to backend (fetch / axios)
+
+Display backend response in chat panel
+
+Show error message if API fails
+
+
+
+
+
+1️⃣ HTML + CSS (FOUNDATION)
+🔹 freeCodeCamp
+
+What to learn:
+
+HTML basics
+
+Flexbox
+
+CSS Grid
+
+Search on YouTube:
+
+“freeCodeCamp HTML CSS full course”
+
+2️⃣ JavaScript Basics
+🔹 Traversy Media
+
+What to learn:
+
+DOM manipulation
+
+Events
+
+Fetch API
+
+Search:
+
+“Traversy Media JavaScript crash course”
+
+3️⃣ React (MOST IMPORTANT)
+🔹 Codevolution
+
+What to learn:
+
+Components
+
+Props
+
+useState
+
+useEffect
+
+Search:
+
+“Codevolution React JS tutorial for beginners”
+
+4️⃣ React + Tailwind CSS (UI SPEED)
+🔹 JavaScript Mastery
+
+What to learn:
+
+Tailwind layouts
+
+Responsive UI
+
+Sidebar designs
+
+Search:
+
+“React Tailwind dashboard UI”
+
+5️⃣ Electron (BROWSER WINDOW)
+🔹 Electron
+
+What to learn:
+
+Create desktop window
+
+Load React app inside Electron
+
+Search:
+
+“Electron React tutorial”
+
+🧠 OPTIONAL (BUT GOOD)
+🔹 Fireship
+
+Short videos for:
+
+React concepts
+
+Electron overview
+
+Tell him to practice by building:
+
+Simple chat UI
+
+Sidebar layout
+
+Fake browser layout
+
+API call to public API (JSONPlaceholder)
+
+📌 RULES YOU MUST TELL PRAVEEN
+
+Say this clearly 👇
+
+“Your job is UI only.
+If it looks good and sends data, you are successful.
+No AI thinking. No automation logic.”
